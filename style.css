@@ -1,0 +1,45 @@
+body{
+    background-image: url(" https://th.bing.com/th/id/OIP.LOKGkLUGfZdol8xj7PcUZQHaEu?w=302&h=192&c=7&r=0&o=5&dpr=1.25&pid=1.7");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100%;
+    text-align: center;
+}
+#container{
+  transform: translate(0px,150px);
+}
+h1{
+    color:yellow ;
+    font-size: 70px;
+}
+input{
+    background-color: sandybrown;
+    text-align: center;
+    font-size: 25px;
+    height: 50px;
+    width: 350px;
+}
+button{
+    background-color: white;
+    color: black;
+    font-size: 25px;
+    height: 50px;
+    width: 200px;
+}
+#container2{
+    text-align: center;
+    width: 1000px;
+   /* background-color: black;*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100%;
+    color:aqua;
+    font-size: 25px;
+    transform: translate(250px,0px);
+}
+#p1{
+    font-size: 30px;
+}
+h2{
+    color: white;
+}
